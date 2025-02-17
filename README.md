@@ -18,7 +18,7 @@ Welcome to the backend service for the Refer & Earn application! This service ha
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/Chandan8018/AccredianBackend.git
+    git clone  
     cd AccredianBackend
     ```
 
@@ -65,17 +65,4 @@ Welcome to the backend service for the Refer & Earn application! This service ha
 ├── package.json
 └── tsconfig.json
 ```
-
-## Demo
-- Refer Notifiction Mail Page
-![Refer-Notifiction-Mail-Page](./image/mail.png)
----
-
-## Contact
-For any questions or inquiries, please contact:
-
-- Author: Chandan Kumar Sahoo
-- Email: chandankumarsahoo19@gmail.com
-- GitHub: https://github.com/Chandan8018/
-
-Feel free to reach out for any questions, suggestions, or contributions. Happy coding!
+ 
